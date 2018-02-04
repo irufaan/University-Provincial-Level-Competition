@@ -5,7 +5,7 @@ This is the repository for Team Kernel which is for innovative application compe
 
 # Team Kernel Community Portal
 
-This is the repository for the Team Kernel community portal. The code is entirely open source and licensed under [the MIT license](license.txt). We welcome your contributions but we encourage you to read the [the contributing guide](contributing.md) before creating an issue or sending in a pull request. Read the installation guide below to get started with setting up the app on your machine.
+This is the repository for the Team Kernel community portal. The code is entirely open source and licensed under [the MIT license](LICENSE). We welcome your contributions but we encourage you to read the [the contributing guide](contributing.md) before creating an issue or sending in a pull request. Read the installation guide below to get started with setting up the app on your machine.
 
 We hope to see your contribution soon!
 
