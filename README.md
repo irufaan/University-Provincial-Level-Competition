@@ -17,7 +17,7 @@ We hope to see your contribution soon!
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Security Vulnerabilities](#security-vulnerabilities)
-- [License](#license)
+- [License](#LICENSE)
 
 ## Requirements
 
@@ -54,5 +54,5 @@ If you discover a security vulnerability within Team Kernel repository please se
 
 ## License
 
-The MIT License. Please see [the license file](license.txt) for more information.
+The MIT License. Please see [the license file](LICENSE) for more information.
 
