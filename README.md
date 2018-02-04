@@ -17,7 +17,7 @@ We hope to see your contribution soon!
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [Security Vulnerabilities](#security-vulnerabilities)
-- [License](#LICENSE)
+- [License](LICENSE)
 
 ## Requirements
 
