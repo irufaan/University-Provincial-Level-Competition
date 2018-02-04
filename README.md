@@ -1,5 +1,5 @@
 
-# team-kernel-competition
+# Team-Kernel-Competition
 This is the repository for Team Kernel which is for innovative application competition for the service outsourcing of college students in Zhejiang Normal University in March 2018
 
 
