@@ -1,9 +1,9 @@
 
-# Team-Kernel-Competition
-This is the repository for Team Kernel which is for innovative application competition for the service outsourcing of college students in Zhejiang Normal University in March 2018
+# Provincial-Competition 2018
+This is the repository for Provincial-Competition which is for innovative application competition for the service outsourcing of college students in Zhejiang Normal University in March 2018
 
 
-# Team Kernel Community Portal
+# Provincial-Competition Community
 
 This is the repository for the Team Kernel community portal. The code is entirely open source and licensed under [the MIT license](LICENSE). We welcome your contributions but we encourage you to read the [the contributing guide](contributing.md) before creating an issue or sending in a pull request. Read the installation guide below to get started with setting up the app on your machine.
 
@@ -38,7 +38,7 @@ The following tools are required in order to start the installation.
 
 ## Maintainers (Team Leader)
 
-The Team Kernel portal is currently maintained by [Irufaan](https://github.com/irufaan). If you have any questions please don't hesitate to create an issue on this repo or ask us through the Team Kernel Wechat private group
+The Provincial-Competition is currently maintained by [Irufaan](https://github.com/irufaan). If you have any questions please don't hesitate to create an issue on this repo or ask us through the Team Kernel Wechat private group
 
 ## Contributing
 
@@ -50,7 +50,7 @@ Please read our [Code of Conduct](code_of_conduct.md) before contributing or eng
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Team Kernel repository please send an email immediately to Irufaan at [irufaan0121@gmail.com](mailto:irufaan0121@gmail.com). **Do not create an issue for the vulnerability.**
+If you discover a security vulnerability within Provincial-Competition repository please send an email immediately to Irufaan at [irufaan0121@gmail.com](mailto:irufaan0121@gmail.com). **Do not create an issue for the vulnerability.**
 
 ## License
 
